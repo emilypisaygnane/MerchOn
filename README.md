@@ -24,6 +24,8 @@
 
 ## Deployed Site
 
+[ NETLIFY ]
+
 ## Our Planning Artifact
 
 [ WHIMSICAL ]
