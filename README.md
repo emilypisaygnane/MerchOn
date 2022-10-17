@@ -3,20 +3,20 @@
 ## Dev Team
 
 ### Connor McCue
-- LinkedIn - 
-- GitHub -
+- LinkedIn - https://www.linkedin.com/in/connor-mccue/
+- GitHub - https://github.com/csmccue
 
 ### Emily Pisaygnane
-- LinkedIn -
-- GitHub -
+- LinkedIn - https://www.linkedin.com/in/emily-pisaygnane/
+- GitHub - https://github.com/emilypisaygnane
 
 ### Tanner Richards
-- LinkedIn -
-- GitHub - 
+- LinkedIn - https://www.linkedin.com/in/tannerrichards/
+- GitHub - https://github.com/TannerRichards990
 
 ### Thomas P. Jenkins
-- LinkedIn -
-- GitHub -
+- LinkedIn - https://www.linkedin.com/in/thomas-p-jenkins/
+- GitHub - https://github.com/Thomas-Jenkins
 
 ## What is MerchOn?
 
